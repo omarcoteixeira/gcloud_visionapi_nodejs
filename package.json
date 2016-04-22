@@ -1,0 +1,29 @@
+{
+  "name": "gcloud_visionapi_nodejs",
+  "version": "1.0.0",
+  "description": "Google Vision API Tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarcoteixeira/gcloud_visionapi_nodejs.git"
+  },
+  "keywords": [
+    "Google",
+    "GCloud",
+    "API",
+    "VisonAPI",
+    "Vision"
+  ],
+  "author": "omarcoteixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarcoteixeira/gcloud_visionapi_nodejs/issues"
+  },
+  "homepage": "https://github.com/omarcoteixeira/gcloud_visionapi_nodejs#readme",
+  "dependencies": {
+    "gcloud": "^0.31.0"
+  }
+}
